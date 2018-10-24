@@ -1,0 +1,15 @@
+{
+  "name": "jsonparse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "dependencies": {
+    "jest": "^22.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
